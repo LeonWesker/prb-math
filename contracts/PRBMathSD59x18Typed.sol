@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: Unlicense
 pragma solidity >=0.8.4;
 
-import "./PRBMath.sol";
+import "https://raw.githubusercontent.com/LeonWesker/prb-math/main/contracts/PRBMath.sol";
 
 /// @title PRBMathSD59x18Typed
 /// @author Paul Razvan Berg
